@@ -2,29 +2,11 @@
 
 ###  [Live Site](https://crossfitforce.netlify.app/)
 
-
-
-
-
-
-
-
-
-
-
 ![preview](https://user-images.githubusercontent.com/78971276/174582381-985ab6dd-3ccf-4592-aa4f-5faf3a6206f7.png)
-
 ![preview_2](https://user-images.githubusercontent.com/78971276/174583911-5514095d-0f21-40cd-acad-4b6441672bf4.png)
-
-
-
-
 ![preview_3](https://user-images.githubusercontent.com/78971276/174583969-5e3f2efb-af77-407b-a1c0-450933e19343.png)
 ![preview_4](https://user-images.githubusercontent.com/78971276/174584013-d465f947-40d1-4ab2-9aac-5875cc350f53.png)
 ![preview_5](https://user-images.githubusercontent.com/78971276/174584055-743a6987-0246-42ce-883f-1186ba202d95.png)
-
-
-
 
 # Getting Started with Create React App
 
